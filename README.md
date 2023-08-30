@@ -3,7 +3,8 @@
 ## Project Overview 🎉
 
 A small page made with HTML and CSS.
-Focused on implementation of CSS Grid
+Focused on implementation of CSS Grid.
+Design ideas from Video Course made by Morten Rand-Hendriksen.
 
 ## Technologies 🔧
 
