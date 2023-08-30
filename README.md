@@ -2,7 +2,7 @@
 
 ## Project Overview 🎉
 
-Simple website challenge made with HTML and CSS.
+A small page made with HTML and CSS.
 Focused on implementation of CSS Grid
 
 ## Technologies 🔧
